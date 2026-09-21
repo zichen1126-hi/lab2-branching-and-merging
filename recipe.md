@@ -63,3 +63,5 @@ This recipe makes a three-layer celebration cake with a raspberry filling betwee
 13. Decorate the cake with fresh raspberries.
 
 14. Add a dusting of powdered sugar just before serving.
+
+15. Cut a slice or save until later

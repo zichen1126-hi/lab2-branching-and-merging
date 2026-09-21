@@ -98,9 +98,9 @@ on their own branch.
 
 You'll notice that your repository already has two branches called `alice` and `bob`.
 
-- [ ] Checkout the `alice` branch.
+- [x] Checkout the `alice` branch.
 
-- [ ] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
+- [x] Attempt to merge the `bob` branch into the `alice` branch using either IntelliJ or the Terminal.
   - You will be prompted to resolve a merge conflict. To do this, you will need to pick and choose which
   parts of each recipe to keep.
   - Read what either `Git` or `IntelliJ` tells you in order to complete the merge process.
@@ -109,15 +109,15 @@ You'll notice that your repository already has two branches called `alice` and `
     `recipe.md` file and `git commit` to finish the merge.
     - If you merge using your IDE, you will be given a GUI to resolve the conflicts in the file.
 
-- [ ] Once the merge is complete, delete the `bob` branch.
+- [x] Once the merge is complete, delete the `bob` branch.
 
-- [ ] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
+- [x] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
 Now, you are almost ready to share your recipe with the remote! 
 
 # TASK 3
 
-- [ ] Checkout a new branch called `task_3`.
+- [x] Checkout a new branch called `task_3`.
 
 - [ ] Commit any changes that you want to `recipe.md` to further improve the recipe.
 
